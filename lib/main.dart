@@ -52,7 +52,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Firebase Meetup'),
+        title: const Text('Study Meetup'),
       ),
       body: ListView(
         children: <Widget>[
